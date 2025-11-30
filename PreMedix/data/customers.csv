@@ -1,0 +1,4 @@
+name,age,gender,phone,email,address,region,bmi,children,smoker,diabetes,blood_pressure,alcohol,exercise_level,date,predicted_premium,risk_level
+rohit,25,Male,1234567890,rohit@gmail.com,amritsar,northwest,24.2,1,yes,yes,low,yes,low,2025-11-29 22:21,18043.209,Medium
+rohit,25,Male,8765432100,,,northwest,10.0,1,yes,yes,low,yes,low,2025-11-29 22:30,,
+riya,26,Female,9876543210,8765432100,jalandhar,northwest,20.0,1,no,no,normal,no,medium,2025-11-29 22:38,,
